@@ -1,0 +1,14 @@
+//
+// brg/pipe
+// ~~~~~~~~
+//
+// Copyright (c) 2020 Nathan Burgers (nateburgers at gmail dot com)
+//
+//
+
+#ifndef INCLUDED_BRG_PIPE
+#define INCLUDED_BRG_PIPE
+
+#include <brg/__brg_pipe_impl/brgim_pipe.hpp>
+
+#endif
